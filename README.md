@@ -1,4 +1,3 @@
-### Hi there 👋
 ### I'm an independent developer working on improving the web. Could you help me?
 
 <!--
