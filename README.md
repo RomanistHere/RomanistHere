@@ -1,4 +1,4 @@
-### I'm an independent developer working on improving the web. Could you help me?
+### I'm an independent developer working on improving the web. Join me?
 
 <!--
 **RomanistHere/RomanistHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
