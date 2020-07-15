@@ -9,15 +9,7 @@ I'm an independent JavaScript Front-end developer 💻 working on improving the 
 
 - 💼 Check ifno about me here: [https://romanisthere.github.io/](https://romanisthere.github.io/)
 - 🎉 Let's connect on [LinkedIn](https://linkedin.com/in/ishandeveloper)
+- 👯 Follow updates on the projects in [Twitter](https://twitter.com/RomanistHere) and [Telegram](https://t.me/BetterWebNews)
 - 📭 RomanistHere@gmail.com
 
-
-🕵 Take a look at my projects and let's get in touch!
-
-[![TWITTER][1.1]][1] &nbsp;
-[![LINKEDIN][5.1]][5] &nbsp;
-
-[1.1]: http://ishandeveloper.com/ishandeveloper/icons/twitter.png "Twitter Icon"
-[5.1]: http://ishandeveloper.com/ishandeveloper/icons/linkedin.png "LinkedIn Icon"
-[1]: https://twitter.com/RomanistHere
-[5]: https://www.linkedin.com/in/romanist/
+🕵 Your help would be appreciated!
