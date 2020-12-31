@@ -4,8 +4,8 @@
 I'm an independent JavaScript Front-end developer 💻 working on improving the web 🌍. Feel free to contact me with any questions or ideas, I am friendly.
 
 - 🎓 Bachelor's degree in Mathematics
-- 🔭 Almost 5 years of experience in my area
-- ⚡ About 30 finished and actual projects and intention to make the Internet better
+- 🔭 5 years of experience in my area
+- ⚡ About 30 finished and actual projects. Intention to make the Internet better
 
 - 💼 Check info about me here: [https://romanisthere.github.io/](https://romanisthere.github.io/)
 - 🎉 Let's connect on [LinkedIn](https://www.linkedin.com/in/romanist/)
@@ -13,3 +13,5 @@ I'm an independent JavaScript Front-end developer 💻 working on improving the 
 - 📭 RomanistHere@gmail.com
 
 🕵 Glad to see you here :)
+
+<a href="https://romanisthere.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=romanisthere&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanisthere&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
