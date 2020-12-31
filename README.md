@@ -14,4 +14,4 @@ I'm an independent JavaScript Front-end developer 💻 working on improving the 
 
 🕵 Glad to see you here :)
 
-<a href="https://romanisthere.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=romanisthere&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanisthere&hide_border=true&layout=compact&langs_count=7&theme=gruvbox" /></a>
+<a href="https://romanisthere.github.io/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=romanisthere&hide_border=true&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&theme=gruvbox" /><!-- wi*quL3fcV --><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanisthere&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gruvbox" /></a>
