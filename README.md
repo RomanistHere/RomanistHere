@@ -4,13 +4,13 @@
 I'm an independent JavaScript Front-end developer 💻 working on improving the web 🌍. Feel free to contact me with any questions or ideas, I am friendly.
 
 - 🎓 Bachelor's degree in Mathematics
-- 🔭 5 years of experience in my area
+- 🔭 6 years of experience in my area
 - ⚡ Around 30 finished and actual projects. Intention to make the Internet better
 
 - 💼 Check info about me here: [https://romanisthere.github.io/](https://romanisthere.github.io/)
 - 🎉 Connect on [LinkedIn](https://www.linkedin.com/in/romanist/)
 - 👯 Follow the project updates on [Twitter](https://twitter.com/RomanistHere) and [Telegram](https://t.me/BetterWebNews)
-- 📭 RomanistHere@gmail.com
+- 📭 RomanistHere@pm.me
 
 🕵 Glad to see you here :)
 
