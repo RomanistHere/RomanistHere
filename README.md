@@ -2,6 +2,7 @@
 
 
 I'm an independent JavaScript Front-end developer 💻 working on improving the web 🌍. Feel free to contact me with any questions or ideas, I am friendly.
+![](https://hit.yhype.me/github/profile?user_id=49812531)
 
 - 🎓 Bachelor's degree in Mathematics
 - 🔭 6 years of experience in my area
