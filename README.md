@@ -2,8 +2,7 @@
 
 
 I'm an independent JavaScript Front-end developer 💻 working on improving the web 🌍. Feel free to contact me with any questions or ideas, I am friendly.
-![](https://hit.yhype.me/github/profile?user_id=49812531)
-![](https://komarev.com/ghpvc/?username=RomanistHere&color=blue)
+
 
 - 🎓 Bachelor's degree in Mathematics
 - 🔭 6 years of experience in my area
@@ -15,5 +14,8 @@ I'm an independent JavaScript Front-end developer 💻 working on improving the 
 - 📭 RomanistHere@pm.me
 
 🕵 Glad to see you here :)
+
+![](https://hit.yhype.me/github/profile?user_id=49812531)
+![](https://komarev.com/ghpvc/?username=RomanistHere&color=blue)
 
 <a href="https://romanisthere.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=romanisthere&hide_border=true&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&theme=gruvbox" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanisthere&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gruvbox" /></a>
