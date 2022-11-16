@@ -5,7 +5,7 @@ I'm an independent JavaScript Front-end developer 💻 working on improving the 
 
 
 - 🎓 Bachelor's degree in Mathematics
-- 🔭 6 years of experience in my area
+- 🔭 7 years of experience in my area
 - ⚡ Around 30 finished and actual projects. Intention to make the Internet better
 
 - 💼 Check info about me here: [https://romanisthere.github.io/](https://romanisthere.github.io/)
