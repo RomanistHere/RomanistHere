@@ -8,7 +8,7 @@ I'm an independent JavaScript Front-end developer 💻 working on improving the 
 - 🔭 7 years of experience in my area
 - ⚡ Around 30 finished and actual projects. Intention to make the Internet better
 
-- 💼 Check info about me here: [https://romanisthere.github.io/](https://romanisthere.github.io/)
+- 💼 Check info about me here: [https://romanisthere.dev/](https://romanisthere.dev/md/about-me)
 - 🎉 Connect on [LinkedIn](https://www.linkedin.com/in/romanist/)
 - 👯 Follow the project updates on [Twitter](https://twitter.com/RomanistHere) and [Telegram](https://t.me/BetterWebNews)
 - 📭 RomanistHere@pm.me
