@@ -1,17 +1,27 @@
 <a href="http://romanisthere.github.io/"><img src="https://pbs.twimg.com/profile_banners/1174042481492733957/1569059910/1500x500" width="100%"></a>
 
 
-I'm an independent JavaScript Front-end developer 💻 working on improving the web 🌍. Feel free to contact me with any questions or ideas, I am friendly.
+I'm a Senior/Staff 💻 JavaScript/**Front-end developer**/engineer.
 
+I work on improving the web 🌍 independently - check my projects, most are open-source - but I also have a job: right now at the [Peterson Academy](https://petersonacademy.com/).
 
-- 🎓 Bachelor's degree in Mathematics
-- 🔭 Around 10 years of experience in my area
-- ⚡ More than 40 finished and ongoing projects. Intention to make the Internet better
+Feel free to contact me with any questions or ideas, I am friendly.
+
+---
+
+- 🎓 Degree in Applied mathematics
+- 🧙‍♂️ Around 10 years of experience in my area: coding, leading, managing, testing, desiging
+- 🗃️ More than 40 finished and ongoing projects (Worldwide, US, EU). Intention to make the Internet better
+- 🖥️ High proficiency in everything job related (all major frameworks and tools, software, hardware, communication - you name it)
+
+---
 
 - 💼 Check info about me here: [https://romanisthere.dev/](https://romanisthere.dev/md/about-me)
 - 🎉 Connect on [LinkedIn](https://www.linkedin.com/in/romanist/)
-- 👯 Follow the project updates on [Twitter](https://twitter.com/RomanistHere) and [Telegram](https://t.me/BetterWebNews)
+- 👯 ~~Follow the project updates on [Twitter](https://twitter.com/RomanistHere) and [Telegram](https://t.me/BetterWebNews)~~ - turns out I'm not a social-media material
 - 📭 RomanistHere@pm.me
+
+---
 
 🕵 Glad to see you here :)
 
